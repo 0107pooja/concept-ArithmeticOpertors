@@ -6,6 +6,7 @@ The following table summarizes the binary arithmetic operations in the Java prog
 
 1. Addition(+): This operator is a binary operator and is used to add two operands.
 Syntax: num1 + num2
+
 Example:
     num1 = 10, num2 = 20
     sum = num1 + num2 = 30
@@ -14,6 +15,7 @@ Example:
 2. Subtraction(-): This operator is a binary operator and is used to subtract two operands.
 
 Syntax: num1 - num2
+
 Example:
     num1 = 20, num2 = 10
     sub = num1 - num2 = 10
@@ -22,6 +24,7 @@ Example:
 3. Multiplication(*): This operator is a binary operator and is used to multiply two operands.
 
 Syntax:num1 * num2
+
 Example:
     num1 = 20, num2 = 10
     mult = num1 * num2 = 200
@@ -31,6 +34,7 @@ Example:
                 and give the quotient as a result.
 
 Syntax:num1 / num2
+
 Example:
     num1 = 20, num2 = 10
     div = num1 / num2 = 2
@@ -40,6 +44,7 @@ Example:
                 by the second operand(divisor).
 
 Syntax:num1 % num2
+
 Example:
     num1 = 5, num2 = 2
     mod = num1 % num2 = 1
